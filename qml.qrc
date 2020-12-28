@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Weather.qml</file>
+        <file>main.qml</file>
+        <file>渔舟唱晚.mp3</file>
+    </qresource>
+</RCC>
